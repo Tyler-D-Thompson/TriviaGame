@@ -1,0 +1,7 @@
+#afterSubmit {
+    visibility: hidden;
+}
+
+body { 
+    background-image: url("https://blog.alexellis.io/content/images/2016/08/blue_ocean.jpg");
+}
